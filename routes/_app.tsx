@@ -61,26 +61,21 @@ export default function App({ Component }: PageProps) {
   const socials = [
     {
       name: "GitHub",
-      url: "https://github.com/michael-pfister/deno-portfolio",
+      url: "https://github.com/Abhinav-676",
       icon: "fa-brands:github",
     },
     {
-      name: "Twitter",
-      url: "https://twitter.com/ScaredToCompile",
-      icon: "fa-brands:twitter",
-    },
-    {
       name: "LinkedIn",
-      url: "https://www.linkedin.com/in/michael-pascal-pfister",
+      url: "https://www.linkedin.com/in/abhinav-harshikesh-833389248/",
       icon: "fa-brands:linkedin",
     },
   ];
 
   const credentials = {
-    name: "John Doe",
+    name: "Abhinav-676",
   };
 
-  const url = "https://opensource-portfolio.deno.dev/";
+  const url = "https://abhinav-portfolio-s-47.deno.dev/";
 
   return (
     <html lang="en">
@@ -100,7 +95,7 @@ export default function App({ Component }: PageProps) {
         </main>
         <footer class="mt-auto footer w-auto m-2 p-4 bg-neutral text-neutral-content rounded-lg">
           <aside>
-            <span>MIT licensed with ❤️ by Michael</span>
+            <span>MIT licensed with ❤️ by <a href="https://github.com/michael-pfister">Michael</a></span>
             <span>
               3D Art by{" "}
               <a
