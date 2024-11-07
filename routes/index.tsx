@@ -193,7 +193,7 @@ function Projects() {
         "IBM SkillsBuild front end project",
       link: "https://connect-hub.pages.dev/",
       type: "Contribution",
-      icon: "logos:deno",
+      icon: "skill-icons:react-dark",
     },
   ];
 
