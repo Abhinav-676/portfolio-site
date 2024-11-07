@@ -119,16 +119,10 @@ interface Experience {
 function Experience() {
   const experiences: Experience[] = [
     {
-      title: "Full Stack Web Developer",
-      company: "AST Advanced Sales Technologies GmbH",
-      timePeriod: "Sep 2023 - Apr 2024",
-      location: "Vienna, Austria",
-    },
-    {
-      title: "Junior Web Developer",
-      company: "AST Advanced Sales Technologies GmbH",
-      timePeriod: "Feb 2023 - Sep 2023",
-      location: "Vienna, Austria",
+      title: "IBM SkillsBuild FrontEnd Internship",
+      company: "IBM SkillsBuild & CSRBOX",
+      timePeriod: "Jun 2024 - Aug 2024",
+      location: "Online",
     },
   ];
 
