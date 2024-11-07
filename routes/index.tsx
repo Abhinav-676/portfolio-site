@@ -188,20 +188,12 @@ interface Project {
 function Projects() {
   const projects: Project[] = [
     {
-      title: "Denoland Fresh",
+      title: "Connect Hub",
       description:
-        "Fresh is a full stack modern web framework for JavaScript and TypeScript developers.",
-      link: "https://fresh.deno.dev/",
-      type: "Open Source",
+        "IBM SkillsBuild front end project",
+      link: "https://connect-hub.pages.dev/",
+      type: "Contribution",
       icon: "logos:deno",
-    },
-    {
-      title: "Dogr.",
-      description:
-        "Dogr is a web application I developed to hone my skills in Nuxt and Vue.",
-      link: "https://dogr.vercel.app/",
-      type: "Personal",
-      icon: "logos:vue",
     },
   ];
 
